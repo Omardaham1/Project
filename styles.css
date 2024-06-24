@@ -1,0 +1,30 @@
+body{
+background-color: lightcoral;
+}
+
+.homepage{
+font-size: xx-large;
+font-family: fantasy;
+text-align: center;
+border-style: dashed;
+border-color: aqua;
+}
+
+.nav-list{
+background-color: lightgray;
+font-size: x-large;
+border-style: double;
+border-color: aquamarine;
+
+
+ul{
+list-style-type: none;
+}
+
+li{
+display:inline;
+padding: 30px;
+font-size: x-large;
+
+}
+}
