@@ -16,20 +16,19 @@ font-size: x-large;
 border-style: double;
 border-color: aquamarine;
 
+}
 
 ul{
-list-style-type: none;
-}
-
-li{
-display:inline;
-padding: 10px;
-font-size: x-large;
-
-}
-}
-
-.about1{
+    list-style-type: none;
+    }
+    
+    li{
+    display:inline;
+    padding: 10px;
+    font-size: x-large;
+    
+    }
+    .about1{
     font-size: xx-large;
     font-family: fantasy;
     text-align: center;
